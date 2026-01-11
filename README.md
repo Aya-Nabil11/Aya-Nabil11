@@ -1,61 +1,88 @@
 <h1 align="center">Aya Alharazin</h1>
-<h3 align="center">Teaching Assistant • Computer Science • Backend & Data</h3>
+<h3 align="center">Python Developer • Teaching Assistant • Backend & Data</h3>
 
 <p align="center">
   <a href="#about">About</a> •
-  <a href="#what-i-do">What I Do</a> •
-  <a href="#tech">Tech</a> •
+  <a href="#focus">Focus</a> •
+  <a href="#stack">Stack</a> •
   <a href="#projects">Projects</a> •
-  <a href="#contact">Contact</a>
+  <a href="#stats">Stats</a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=800&center=true&vCenter=true&width=600&lines=Teaching+Assistant+for+Java+%26+Python;Backend+Engineering+%26+APIs;Data+and+Database+Work;Building+real+systems+with+code" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=900&center=true&vCenter=true&width=650&lines=Python+Developer+%F0%9F%90%8D;Teaching+Assistant+for+Java+%26+Python;Backend+APIs+%26+Data+Systems;Turning+logic+into+real+software" />
 </p>
 
 ---
 
 ## About
-I’m a **Computer Science graduate** from the Islamic University of Gaza and currently a **Teaching Assistant** for Java & Python programming labs.  
-I focus on building **strong problem-solving skills**, **clean backend systems**, and **data-driven applications**.
+I’m a **Python Developer** and **Computer Science Teaching Assistant** at the Islamic University of Gaza.  
+I build **backend systems**, work with **data & databases**, and teach students how to write **clean, logical code**.
+
+<details>
+<summary><b>What drives me</b></summary>
+
+I care about:
+- Real-world backend systems  
+- Clean and readable code  
+- Data accuracy and structure  
+- Teaching students to think, not memorize  
+
+</details>
 
 ---
 
-## What I Do
-- Teach and manage **Java & Python labs** for large groups of students  
-- Design **coding exercises, quizzes, and assignments**
-- Build **backend APIs & automation systems**
-- Work with **data, forms, and databases** for real projects
+## Focus
+- 🐍 Python backend & scripting  
+- 🧩 Java & Python labs (200+ students)  
+- 🗃️ Data collection, validation & storage  
+- 🔗 REST APIs & automation  
 
 ---
 
-## Tech
+## Stack
 **Languages**
-- Java  
 - Python  
+- Java  
 
 **Backend & Data**
 - REST APIs  
 - Laravel  
 - SQL  
-- Data collection & validation  
 
 **Tools**
 - Git & GitHub  
-- Excel  
 - Postman  
+- Excel  
 
 ---
 
 ## Projects
-- **Orders Desktop Application** – Java-based system for managing orders  
-- **Backend APIs** – Laravel & RESTful services  
-- **Automation & Data Systems** – forms, validation, and structured storage  
+<details>
+<summary><b>Backend & Applications</b></summary>
 
-> More projects are being added as I publish my academic and backend work.
+- Orders Desktop Application (Java)  
+- RESTful APIs (Python & Laravel)  
+- Data registration & management systems  
+
+</details>
+
+<details>
+<summary><b>Teaching & Labs</b></summary>
+
+- Java programming labs  
+- Python problem-solving exercises  
+- Quizzes & assignments  
+
+</details>
 
 ---
 
-## Contact
-- GitHub: https://github.com/Aya-Nabil11  
-- LinkedIn: *(add when ready)*
+## Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aya-Nabil11&show_icons=true&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aya-Nabil11&hide_border=true" />
+</p>
