@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+Aya+Nabil+Alharazin+%F0%9F%91%8B;Coding%2C+teaching%2C+and+learning;One+step+at+a+time+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+Aya+Nabil+Alharazin+%F0%9F%91%8B;Coding%2C+teaching%2C+and+learning;code+ +coffee=life+%E2%9C%A8" alt="Typing SVG" />
 </div>
 
 <h3 align="center">Computer Science Graduate | Teaching Assistant | Aspiring Data Scientist 🇵🇸</h3>
@@ -140,7 +140,7 @@ graph LR
     A[Computer Science Graduate] --> B[Teaching Assistant]
     B --> C[Advanced Python & Data Science]
     C --> D[Humanitarian Data Analysis]
-    D --> E[MSc Preparation - UK]
+    D --> E[MSc Preparation]
     E --> F[Data Scientist for Social Impact]
     
     style A fill:#8B5CF6
@@ -217,23 +217,9 @@ graph LR
 ---
 
 <div align="center">
-
-### 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aya-Nabil11/Aya-Nabil11/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aya-Nabil11/Aya-Nabil11/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Aya-Nabil11/Aya-Nabil11/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
----
-
-<div align="center">
   <img src="https://komarev.com/ghpvc/?username=Aya-Nabil11&style=for-the-badge&color=blueviolet" alt="Profile views" />
   
-  ### ⭐ From [Aya](https://github.com/Aya-Nabil11) with 💜
+  ### ⭐ From [Aya](https://github.com/Aya-Nabil11) with ☕
   
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2000&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+%F0%9F%91%8B;Let's+build+something+amazing+together!;Code+%2B+Compassion+%3D+Change+%E2%9C%A8" alt="Footer" />
 </div>
