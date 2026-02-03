@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm Aya Alharazin  <br>A Backend Developer specializing in Python,  <br>based in Palestine – Gaza 🇵🇸</h2>
+<h2 align="left">Hi 👋! I'm Aya  <br>A Backend Developer specializing in Python,  <br>based in Palestine – Gaza 🇵🇸</h2>
 
 ###
 
