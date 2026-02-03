@@ -5,7 +5,7 @@
 ## 🎯 My Mission
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Using+Data+Science+for+Social+%26+Humanitarian+Impact;Empowering+students+through+education;Building+tech+solutions+for+Gaza+%F0%9F%87%B5%F0%9F%87%B8;One+line+of+code+at+a+time+%E2%9C%A8" alt="Mission Statement" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Using+Data+Science+for+Social+%26+Humanitarian+Impact;Empowering+students+through+education;Building+tech+solutions+for+Gaza+%F0%9F%87%B5%F0%9F%87%B8;code+Coffee+=+Life+%E2%9C%A8" alt="Mission Statement" />
 </div>
 
 ---
