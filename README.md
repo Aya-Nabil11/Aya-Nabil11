@@ -27,17 +27,7 @@
   </a>
 </div>
 
----
 
-<div align="center">
-  
-### 💭 Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😄 Here's a Joke for You
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical&hideBorder)
-
-</div>
 
 ---
 
