@@ -1,88 +1,71 @@
-<h1 align="center">Aya Alharazin</h1>
-<h3 align="center">Python Developer • Teaching Assistant • Backend & Data</h3>
+<h2 align="left">Hi 👋! I'm Aya Alharazin  <br>A Backend Developer specializing in Python,  <br>based in Palestine – Gaza 🇵🇸</h2>
 
-<p align="center">
-  <a href="#about">About</a> •
-  <a href="#focus">Focus</a> •
-  <a href="#stack">Stack</a> •
-  <a href="#projects">Projects</a> •
-  <a href="#stats">Stats</a>
-</p>
+###
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=900&center=true&vCenter=true&width=650&lines=Python+Developer+%F0%9F%90%8D;Teaching+Assistant+for+Java+%26+Python;Backend+APIs+%26+Data+Systems;Turning+logic+into+real+software" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aya-Nabil11&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aya-Nabil11&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
----
+###
 
-## About
-I’m a **Python Developer** and **Computer Science Teaching Assistant** at the Islamic University of Gaza.  
-I build **backend systems**, work with **data & databases**, and teach students how to write **clean, logical code**.
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-<details>
-<summary><b>What drives me</b></summary>
+###
 
-I care about:
-- Real-world backend systems  
-- Clean and readable code  
-- Data accuracy and structure  
-- Teaching students to think, not memorize  
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" alt="anaconda logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/moodle/moodle-original.svg" height="30" alt="moodle logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="30" alt="pycharm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" alt="r logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="30" alt="rstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="30" alt="composer logo"  />
+</div>
 
-</details>
+###
 
----
+<div align="left">
+  <a href="https://www.youtube.com/@AyaAlharazin" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  </a>
+  <a href="https://www.instagram.com/alharazinaya/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="www.linkedin.com/in/aya-alharazin" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="alharazinaya@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+</div>
 
-## Focus
-- 🐍 Python backend & scripting  
-- 🧩 Java & Python labs (200+ students)  
-- 🗃️ Data collection, validation & storage  
-- 🔗 REST APIs & automation  
+###
 
----
+<br clear="both">
 
-## Stack
-**Languages**
-- Python  
-- Java  
+<img src="https://raw.githubusercontent.com/Aya-Nabil11/Aya-Nabil11/output/snake.svg" alt="Snake animation" />
 
-**Backend & Data**
-- REST APIs  
-- Laravel  
-- SQL  
-
-**Tools**
-- Git & GitHub  
-- Postman  
-- Excel  
-
----
-
-## Projects
-<details>
-<summary><b>Backend & Applications</b></summary>
-
-- Orders Desktop Application (Java)  
-- RESTful APIs (Python & Laravel)  
-- Data registration & management systems  
-
-</details>
-
-<details>
-<summary><b>Teaching & Labs</b></summary>
-
-- Java programming labs  
-- Python problem-solving exercises  
-- Quizzes & assignments  
-
-</details>
-
----
-
-## Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aya-Nabil11&show_icons=true&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aya-Nabil11&hide_border=true" />
-</p>
+###
