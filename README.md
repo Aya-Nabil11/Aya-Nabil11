@@ -57,27 +57,7 @@ class Aya:
 
 
 
-### Tools & Platforms
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-</div>
 
-### Currently Exploring
-<div align="left">
-  <img src="https://img.shields.io/badge/APIs-FF6F00?style=for-the-badge&logo=postman&logoColor=white" alt="APIs" />
-  <img src="https://img.shields.io/badge/Data_Visualization-4285F4?style=for-the-badge&logo=google-analytics&logoColor=white" alt="Data Viz" />
-  <img src="https://img.shields.io/badge/Humanitarian_Data-E4405F?style=for-the-badge&logo=databricks&logoColor=white" alt="Humanitarian Data" />
-</div>
 
 ---
 
