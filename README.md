@@ -44,19 +44,6 @@ I'm a **Computer Science graduate** from Gaza, Palestine, passionate about using
 
 **Currently Learning:** APIs • Data Visualization • Humanitarian Data Analysis • Advanced Algorithms
 
----
-
-📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aya-Nabil11&show_icons=true&theme=radical" alt="GitHub Stats" />
-</div>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aya-Nabil11&theme=radical" alt="GitHub Streak" />
-</div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aya-Nabil11&layout=compact&theme=radical" alt="Top Languages" />
-</div>
----
 
 ## 🎯 My Mission
 
