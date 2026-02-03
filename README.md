@@ -47,10 +47,9 @@ I'm a **Computer Science graduate** from Gaza, Palestine, passionate about using
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aya-Nabil11&show_icons=true&theme=radical" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aya-Nabil11&layout=compact&theme=radical" height="180" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aya-Nabil11&show_icons=true&theme=tokyonight" alt="Aya's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aya-Nabil11&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
-
 ---
 
 ## 🎯 My Mission
