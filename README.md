@@ -15,7 +15,7 @@ I'm a **Computer Science graduate** from Gaza, Palestine, passionate about using
 - **Education**: Teaching Python, Java, Data Structures, and Operating Systems to university students
 - **Data Science**: Building expertise in NumPy, Pandas, and data analysis for humanitarian applications
 - **Social Impact**: Developing tech solutions that address real-world challenges in Gaza and beyond
-- **Academic Growth**: Preparing for MSc in Data Science/Advanced Computer Science in the UK
+- **Academic Growth**: Preparing for MSc in Data Science/Advanced Computer Science 
 
 ---
 
@@ -49,8 +49,15 @@ I'm a **Computer Science graduate** from Gaza, Palestine, passionate about using
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aya-Nabil11&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&bg_color=0d1117" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aya-Nabil11&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=true&bg_color=0d1117" height="180" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aya-Nabil11&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aya-Nabil11&layout=compact&theme=radical&langs_count=6" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Aya-Nabil11&theme=radical" alt="GitHub Streak" />
 </div>
 
 ---
@@ -84,7 +91,7 @@ Computer Science Graduate (95.71 GPA)
            ↓
 Advanced Data Science Learning
            ↓
-   MSc Preparation (UK)
+   MSc Preparation 
            ↓
 Data Scientist for Social Impact
 ```
@@ -114,7 +121,7 @@ Data Scientist for Social Impact
 
 <div align="center">
   
-**"Code + Compassion = Change"**
+**"Code + coffee = life"**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Aya-Nabil11&style=flat-square&color=blueviolet)
 
