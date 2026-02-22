@@ -6,7 +6,7 @@
 
 ---
 
-## 👩‍💻 Who is Aya?
+## 👩‍💻 Who is Aya Alharazin?
 
 I'm a **Computer Science graduate** from Gaza, Palestine, passionate about using technology and data to create meaningful change. Currently serving as a **Teaching Assistant** at the Faculty of Information Technology, I'm dedicated to empowering the next generation of developers while pursuing my own journey in **Data Science**.
 
