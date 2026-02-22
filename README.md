@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Aya+Nabil+Alharazin;Teaching+Assistant+%7C+Data+Enthusiast;Building+Tech+for+Social+Impact+🇵🇸" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Aya+Alharazin;Teaching+Assistant+%7C+Data+Enthusiast;Building+Tech+for+Social+Impact+🇵🇸" alt="Typing SVG" />
 </div>
 
 <h3 align="center">Computer Science Graduate @ Islamic University of Gaza | GPA: 95.71/100 🎓</h3>
