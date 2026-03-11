@@ -89,8 +89,6 @@ CS Graduate @ IUG (GPA: 95.71/100)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=aya-alharazin&theme=highcontrast&hide_border=false)](https://git.io/streak-stats)
 [![Repos per language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aya-alharazin&theme=dark)](https://github.com/vn7n24fzkq/github-summary-cards)
-[![Profile details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aya-alharazin&theme=dark)](https://github.com/vn7n24fzkq/github-summary-cards)
-
 </div>
 
 ---
