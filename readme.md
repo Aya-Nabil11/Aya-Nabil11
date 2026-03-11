@@ -14,7 +14,6 @@ I'm a **Computer Science graduate** from Gaza, Palestine 🇵🇸 with a **GPA o
 
 Currently serving as a **Teaching Assistant at the Islamic University of Gaza**, I'm dedicated to empowering the next generation of developers while pursuing my own journey in **Data Science**.
 
-> *"Code + coffee = life ☕"*
 
 ---
 
@@ -89,9 +88,7 @@ CS Graduate @ IUG (GPA: 95.71/100)
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=aya-alharazin&theme=highcontrast&hide_border=false)](https://git.io/streak-stats)
-
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/aya-alharazin?cardType=level&theme=dark&preferLogin=false&Ring=DD2727)](https://git.io/awesome-stats-card)
-
 [![Repos per language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aya-alharazin&theme=dark)](https://github.com/vn7n24fzkq/github-summary-cards)
 [![Profile details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aya-alharazin&theme=dark)](https://github.com/vn7n24fzkq/github-summary-cards)
 
@@ -113,7 +110,7 @@ CS Graduate @ IUG (GPA: 95.71/100)
 
 ## 🐍 Contribution Snake
 
-![github-user-contribution](https://raw.githubusercontent.com/aya-alharazin/aya-alharazin/main/github-user-contribution.svg)
+![snake](https://raw.githubusercontent.com/aya-alharazin/aya-alharazin/output/github-user-contribution.svg)
 
 ---
 
@@ -134,8 +131,5 @@ CS Graduate @ IUG (GPA: 95.71/100)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=aya-alharazin&color=blueviolet&style=flat-square)
 
-![snake](https://raw.githubusercontent.com/aya-alharazin/aya-alharazin/output/github-user-contribution.svg)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=150&section=footer" />
 
 </div>
