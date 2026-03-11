@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F7A8C4&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Aya+Alharazin+%F0%9F%91%8B;CS+Graduate+%7C+Teaching+Assistant;Data+Science+%7C+Python+%7C+SQL;Tech+for+Social+Impact+%F0%9F%8C%8D)](https://git.io/typing-svg)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome+to+my+profile!&fontAlign=50&fontAlignY=40&color=gradient&customColorList=24" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=@+Aya+Alharazin!&fontAlign=50&fontAlignY=40&color=gradient&customColorList=24" />
 
 </div>
 
@@ -46,11 +46,6 @@ Currently serving as a **Teaching Assistant at the Islamic University of Gaza**,
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
-### Currently Learning 🌱
-![APIs](https://img.shields.io/badge/-APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Data Visualization](https://img.shields.io/badge/-Data%20Visualization-11557C?style=flat-square&logo=plotly&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 
 ---
 
