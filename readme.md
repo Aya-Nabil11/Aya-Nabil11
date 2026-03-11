@@ -131,6 +131,6 @@ CS Graduate @ IUG (GPA: 95.71/100)
 ![Profile Views](https://komarev.com/ghpvc/?username=aya-alharazin&color=blueviolet&style=flat-square)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=150&section=footer" />
-![snake](https://raw.githubusercontent.com/aya-alharazin/aya-alharazin/output/github-user-contribution.svg)
+![snake](https://github.com/aya-alharazin/aya-alharazin/output/github-user-contribution.svg)
 
 </div>
