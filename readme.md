@@ -119,19 +119,23 @@ CS Graduate @ IUG (GPA: 95.71/100)
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg)](https://linkedin.com/in/aya-alharazin)
-[![Gmail](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg)](mailto:aya.alharazin@gmail.com)
-[![Instagram](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg)](https://instagram.com/aya.alharazin)
-[![X / Twitter](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg)](https://x.com/AyaAlharazin)
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aya-alharazin)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aya.alharazin@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aya.alharazin)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AyaAlharazin)
+
+</div>
 
 ---
 
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=aya-alharazin&color=blueviolet&style=flat-square)
+
 ![snake](https://raw.githubusercontent.com/aya-alharazin/aya-alharazin/output/github-user-contribution.svg)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=150&section=footer" />
-
 
 </div>
