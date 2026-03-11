@@ -96,18 +96,6 @@ CS Graduate @ IUG (GPA: 95.71/100)
 
 ---
 
-## 📈 Contribution Graph
-
-[![Aya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aya-alharazin&theme=high-contrast&count_private=true&include_all_commits=false&hide_border=true&area=true&order=5)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=aya-alharazin&theme=radical&no-frame=false&no-bg=false&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
 ## 🐍 Contribution Snake
 
 ![snake](https://raw.githubusercontent.com/aya-alharazin/aya-alharazin/output/github-user-contribution.svg)
@@ -126,10 +114,3 @@ CS Graduate @ IUG (GPA: 95.71/100)
 </div>
 
 ---
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=aya-alharazin&color=blueviolet&style=flat-square)
-
-
-</div>
