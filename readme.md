@@ -106,3 +106,4 @@ CS Graduate @ IUG (GPA: 95.71/100)
 
 ---
 [![committers.top badge](https://user-badge.committers.top/palestine/aya-alharazin.svg)](https://user-badge.committers.top/palestine/aya-alharazin)
+![](https://komarev.com/ghpvc/?username=aya-alharazin)
