@@ -100,9 +100,9 @@ CS Graduate @ IUG (GPA: 95.71/100)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aya-alharazin)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aya.alharazin@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aya.alharazin)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AyaAlharazin)
 
 </div>
 
 ---
+[![committers.top badge](https://user-badge.committers.top/palestine/USERNAME.svg)](https://user-badge.committers.top/palestine/aya-alharazin)
